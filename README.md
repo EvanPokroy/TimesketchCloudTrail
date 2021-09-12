@@ -1,7 +1,7 @@
 ########
-#  Sept 12, 2021
-#  Evan Pokroy - evanp@omg.lol twitter: @EvSecOps
-#  Creative Commons 1.0
+  Sept 12, 2021
+  Evan Pokroy - evanp@omg.lol twitter: @EvSecOps
+  Creative Commons 1.0
 #######
 
 Having started recently concentraing on incidence management in our cloud environment, I started looking for tools to manage log files and generally facilitate our working with a team to do digital forensics. One of the tools we ran across is Timesketch, from Google <a href=https://github.com/google/timesketch>https://github.com/google/timesketch</a>. 
